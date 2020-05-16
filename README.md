@@ -1,5 +1,5 @@
 # EmailCheckerAPI
-A Simple and Fast [API](https://emailcheckerapi.herokuapp.com) To Check Bounce, Temp and Non Valid eMails 
+A Simple and Fast [API](https://nobounce.herokuapp.com/) To Check Bounce, Temp and Non Valid eMails 
 ## USAGE
 
 | Usage  | Request |
